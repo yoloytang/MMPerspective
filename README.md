@@ -1,6 +1,6 @@
 
 # ✨ MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness
-[**🌐 Homepage**](https://yunlong10.github.io/MMPerspective/) | [**🔬 Paper**](https://arxiv.org/abs/2505.20426) | [**👩‍💻 Code**](https://github.com/yunlong10/MMPerspective/blob/main/) | [**📊 Dataset**]() | [**📈 Evaluation**]() | [**🏆 Leaderboard**](https://yunlong10.github.io/MMPerspective/#leaderboard)
+[**🌐 Homepage**](https://yoloytang.me/MMPerspective/) | [**🔬 Paper**](https://arxiv.org/abs/2505.20426) | [**👩‍💻 Code**](https://github.com/yoloytang/MMPerspective/blob/main/) | [**📊 Dataset**]() | [**📈 Evaluation**]() | [**🏆 Leaderboard**](https://yoloytang.me/MMPerspective/#leaderboard)
 
 ## What is MMPerspective?
 > MMPerspective is a comprehensive benchmark designed to systematically evaluate the understanding of perspective geometry by Multimodal Large Language Models (MLLMs). It comprises 10 diverse tasks across three key dimensions: Perspective Perception, Reasoning, and Robustness, with 2,711 real-world and synthetic image instances.
@@ -16,13 +16,13 @@ MMPerspective enables researchers and practitioners to uncover the strengths, li
 
 <!-- ![alt text](assets/tops.png) -->
 
-[Link](https://yunlong10.github.io/MMPerspective/#leaderboard)
+[Link](https://yoloytang.me/MMPerspective/#leaderboard)
 
 ## 📉 Statistics
 
 ![alt text](assets/radar.png)
 
-[Link](https://yunlong10.github.io/MMPerspective/#benchmark)
+[Link](https://yoloytang.me/MMPerspective/#benchmark)
 
 ## Data Curation Pipeline
 
